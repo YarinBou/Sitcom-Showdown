@@ -1,0 +1,2163 @@
+[
+  {
+    "question": "What was Ross's pet monkey's name in Friends?",
+    "options": ["Marcel", "George", "Albert", "Chester"],
+    "answer": "Marcel",
+    "show": "Friends",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which sitcom features the Dunder Mifflin Paper Company?",
+    "options": ["Parks and Recreation", "The Office", "Community", "Seinfeld"],
+    "answer": "The Office",
+    "show": "The Office",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In Seinfeld, what is Kramer's first name?",
+    "options": ["George", "Cosmo", "Frank", "Jerry"],
+    "answer": "Cosmo",
+    "show": "Seinfeld",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of Jay's dog in Modern Family?",
+    "options": ["Stella", "Max", "Buddy", "Charlie"],
+    "answer": "Stella",
+    "show": "Modern Family",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the full name of Barney's playbook in How I Met Your Mother?",
+    "options": ["The Playbook", "Bro Code", "Barney's Guide", "Legendary Playbook"],
+    "answer": "The Playbook",
+    "show": "How I Met Your Mother",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which character in Brooklyn Nine-Nine is obsessed with yogurt?",
+    "options": ["Jake", "Terry", "Holt", "Boyle"],
+    "answer": "Terry",
+    "show": "Brooklyn Nine-Nine",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who does Michael Scott accidentally hit with his car in The Office?",
+    "options": ["Meredith", "Pam", "Toby", "Kelly"],
+    "answer": "Meredith",
+    "show": "The Office",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the coffee shop where the gang hangs out in Friends?",
+    "options": ["Central Perk", "Coffee Central", "Perk Place", "The Daily Grind"],
+    "answer": "Central Perk",
+    "show": "Friends",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What job does Ted Mosby have in How I Met Your Mother?",
+    "options": ["Architect", "Lawyer", "Teacher", "Journalist"],
+    "answer": "Architect",
+    "show": "How I Met Your Mother",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the bar where the gang spends time in How I Met Your Mother?",
+    "options": ["MacLaren's Pub", "Paddy's Pub", "Central Perk", "Cheers"],
+    "answer": "MacLaren's Pub",
+    "show": "How I Met Your Mother",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which character says 'Serenity now!' in Seinfeld?",
+    "options": ["Kramer", "George", "Jerry", "Frank Costanza"],
+    "answer": "Frank Costanza",
+    "show": "Seinfeld",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who is the captain of the precinct in Brooklyn Nine-Nine?",
+    "options": ["Jake Peralta", "Raymond Holt", "Terry Jeffords", "Gina Linetti"],
+    "answer": "Raymond Holt",
+    "show": "Brooklyn Nine-Nine",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is Phil Dunphy's profession in Modern Family?",
+    "options": ["Lawyer", "Realtor", "Architect", "Teacher"],
+    "answer": "Realtor",
+    "show": "Modern Family",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does Dwight Schrute run on the side in The Office?",
+    "options": ["A gym", "A beet farm", "A bakery", "A karate studio"],
+    "answer": "A beet farm",
+    "show": "The Office",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is Barney Stinson's catchphrase in How I Met Your Mother?",
+    "options": ["It's gonna be legendary!", "True story", "Suit up!", "Challenge accepted!"],
+    "answer": "Suit up!",
+    "show": "How I Met Your Mother",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which character has a catchphrase 'Cool, cool, cool' in Brooklyn Nine-Nine?",
+    "options": ["Boyle", "Jake", "Gina", "Holt"],
+    "answer": "Jake",
+    "show": "Brooklyn Nine-Nine",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does George Costanza pretend to be as a fake profession in Seinfeld?",
+    "options": ["Architect", "Lawyer", "Doctor", "Marine Biologist"],
+    "answer": "Architect",
+    "show": "Seinfeld",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of Jay's first wife in Modern Family?",
+    "options": ["Gloria", "Claire", "Dede", "Julie"],
+    "answer": "Dede",
+    "show": "Modern Family",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What food does Joey never share in Friends?",
+    "options": ["Pizza", "Burger", "Sandwich", "Pasta"],
+    "answer": "Sandwich",
+    "show": "Friends",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who wins the 'Glee Club' trophy in The Office?",
+    "options": ["Michael", "Andy", "Dwight", "Pam"],
+    "answer": "Andy",
+    "show": "The Office",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What food is Kevin famous for spilling in The Office?",
+    "options": ["Chili", "Soup", "Coffee", "Pasta"],
+    "answer": "Chili",
+    "show": "The Office",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of Joey's stuffed penguin in Friends?",
+    "options": ["Hugsy", "Waddles", "Flippers", "Mr. Penguin"],
+    "answer": "Hugsy",
+    "show": "Friends",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which Seinfeld character frequently uses the alias Art Vandelay?",
+    "options": ["George", "Kramer", "Elaine", "Jerry"],
+    "answer": "George",
+    "show": "Seinfeld",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of Gloria's son in Modern Family?",
+    "options": ["Manny", "Luke", "Jay", "Joe"],
+    "answer": "Manny",
+    "show": "Modern Family",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the title of the game Terry loves to play in Brooklyn Nine-Nine?",
+    "options": ["Cops & Robbers", "Kwazy Cupcakes", "Candy Crush", "Fruit Ninja"],
+    "answer": "Kwazy Cupcakes",
+    "show": "Brooklyn Nine-Nine",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is Barney's biggest fear in How I Met Your Mother?",
+    "options": ["Commitment", "Clowns", "Heights", "Losing Suit Up!"],
+    "answer": "Clowns",
+    "show": "How I Met Your Mother",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the name of Michael Scott's movie in The Office?",
+    "options": ["Threat Level Midnight", "Dundie Awards", "Golden Dreams", "Scranton Tales"],
+    "answer": "Threat Level Midnight",
+    "show": "The Office",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the building superintendent in Friends?",
+    "options": ["Mr. Treeger", "Gunther", "Joey", "Richard"],
+    "answer": "Mr. Treeger",
+    "show": "Friends",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who is the Soup Nazi in Seinfeld?",
+    "options": ["A chef", "Kramer's neighbor", "A delivery man", "Jerry's rival"],
+    "answer": "A chef",
+    "show": "Seinfeld",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What nickname does Jay give to Phil in Modern Family?",
+    "options": ["Phil-Dun-Dun", "Clown Dad", "Philbo", "Magic Phil"],
+    "answer": "Phil-Dun-Dun",
+    "show": "Modern Family",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does Jake use to propose to Amy in Brooklyn Nine-Nine?",
+    "options": ["A bomb-defusing scene", "A trivia contest", "A mystery puzzle", "A surprise party"],
+    "answer": "A mystery puzzle",
+    "show": "Brooklyn Nine-Nine",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What was Robin's pop star name in How I Met Your Mother?",
+    "options": ["Robin Sparkles", "Robin Shines", "Robin Stars", "Robin Dazzle"],
+    "answer": "Robin Sparkles",
+    "show": "How I Met Your Mother",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of Dwight's cousin in The Office?",
+    "options": ["Mose", "Zeke", "Eli", "Amos"],
+    "answer": "Mose",
+    "show": "The Office",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who is the first character to speak in Friends?",
+    "options": ["Ross", "Rachel", "Monica", "Chandler"],
+    "answer": "Monica",
+    "show": "Friends",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who often says 'No hugging, no learning' in Seinfeld?",
+    "options": ["Jerry", "George", "Elaine", "Kramer"],
+    "answer": "Jerry",
+    "show": "Seinfeld",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is Haley's dream job in Modern Family?",
+    "options": ["Fashion Designer", "Photographer", "Stylist", "Marketing Executive"],
+    "answer": "Marketing Executive",
+    "show": "Modern Family",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who is Gina's favorite artist in Brooklyn Nine-Nine?",
+    "options": ["Beyoncé", "Taylor Swift", "Kanye West", "Rihanna"],
+    "answer": "Kanye West",
+    "show": "Brooklyn Nine-Nine",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is Walter White's alias in Breaking Bad?",
+    "options": ["Heisenberg", "The Cook", "Mr. White", "Scarface"],
+    "answer": "Heisenberg",
+    "show": "Breaking Bad",
+    "genre": "Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does Saul Goodman’s slogan say in Breaking Bad?",
+    "options": ["Better Call Saul!", "Call Saul for Justice!", "Your Lawyer, Your Way!", "Saul Gets Results!"],
+    "answer": "Better Call Saul!",
+    "show": "Breaking Bad",
+    "genre": "Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In Suits, what is the name of Harvey Specter's secretary?",
+    "options": ["Donna Paulsen", "Rachel Zane", "Jessica Pearson", "Katrina Bennett"],
+    "answer": "Donna Paulsen",
+    "show": "Suits",
+    "genre": "Legal Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is Mike Ross’s special ability in Suits?",
+    "options": ["Photographic memory", "Speed reading", "Analytical thinking", "Negotiation"],
+    "answer": "Photographic memory",
+    "show": "Suits",
+    "genre": "Legal Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of Walter White's car wash in Breaking Bad?",
+    "options": ["A1A Car Wash", "Crystal Clean", "Blue Wash", "ABQ Cleaners"],
+    "answer": "A1A Car Wash",
+    "show": "Breaking Bad",
+    "genre": "Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In Suits, which law school did Rachel Zane dream of attending?",
+    "options": ["Harvard", "Yale", "Columbia", "NYU"],
+    "answer": "Harvard",
+    "show": "Suits",
+    "genre": "Legal Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of Gus Fring's restaurant in Breaking Bad?",
+    "options": ["Los Pollos Hermanos", "El Pollo Loco", "La Cocina", "Chicken Brothers"],
+    "answer": "Los Pollos Hermanos",
+    "show": "Breaking Bad",
+    "genre": "Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In Suits, who is the founder of the law firm Pearson Specter Litt?",
+    "options": ["Jessica Pearson", "Daniel Hardman", "Louis Litt", "Harvey Specter"],
+    "answer": "Jessica Pearson",
+    "show": "Suits",
+    "genre": "Legal Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is Hank Schrader’s profession in Breaking Bad?",
+    "options": ["DEA agent", "Police officer", "Private investigator", "Journalist"],
+    "answer": "DEA agent",
+    "show": "Breaking Bad",
+    "genre": "Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In Suits, what fake degree does Mike Ross claim to have?",
+    "options": ["Harvard Law", "NYU Law", "Columbia Law", "Yale Law"],
+    "answer": "Harvard Law",
+    "show": "Suits",
+    "genre": "Legal Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What does Marshall collect in How I Met Your Mother?",
+    "options": ["Beer mugs", "Hats", "Journals", "Sports memorabilia"],
+    "answer": "Hats",
+    "show": "How I Met Your Mother",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the Dundie award for 'Hottest in the Office' given for in The Office?",
+    "options": ["Looks", "Attitude", "Style", "Sense of humor"],
+    "answer": "Looks",
+    "show": "The Office",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who wins the 'Peeps' eating contest in Brooklyn Nine-Nine?",
+    "options": ["Jake", "Terry", "Amy", "Boyle"],
+    "answer": "Boyle",
+    "show": "Brooklyn Nine-Nine",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is Walter White's wife's name in Breaking Bad?",
+    "options": ["Skyler", "Marie", "Jane", "Lydia"],
+    "answer": "Skyler",
+    "show": "Breaking Bad",
+    "genre": "Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In Suits, what is Louis Litt's cat's name?",
+    "options": ["Bruno", "Felix", "Mittens", "Nigel"],
+    "answer": "Nigel",
+    "show": "Suits",
+    "genre": "Legal Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the diner in Breaking Bad?",
+    "options": ["Loyola's Diner", "Los Pollos Hermanos", "The Crystal Cafe", "ABQ Diner"],
+    "answer": "Loyola's Diner",
+    "show": "Breaking Bad",
+    "genre": "Drama",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In Friends, who was Monica’s first kiss?",
+    "options": ["Chandler", "Ross", "Joey", "Richard"],
+    "answer": "Ross",
+    "show": "Friends",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In Suits, what city is the Pearson Specter Litt firm located in?",
+    "options": ["New York City", "Los Angeles", "Chicago", "Boston"],
+    "answer": "New York City",
+    "show": "Suits",
+    "genre": "Legal Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is Gus Fring’s real nationality in Breaking Bad?",
+    "options": ["Chilean", "Mexican", "American", "Colombian"],
+    "answer": "Chilean",
+    "show": "Breaking Bad",
+    "genre": "Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In The Office, who accidentally starts a fire in the office?",
+    "options": ["Ryan", "Dwight", "Jim", "Michael"],
+    "answer": "Ryan",
+    "show": "The Office",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What was the name of the boat Michael Scott bought in The Office?",
+    "options": ["The Party Princess", "The Fun Run", "The S.S. Scranton", "The Lady Fortune"],
+    "answer": "The S.S. Scranton",
+    "show": "The Office",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In How I Met Your Mother, what instrument does Ted steal for Robin?",
+    "options": ["French horn", "Violin", "Trumpet", "Piano"],
+    "answer": "French horn",
+    "show": "How I Met Your Mother",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In Brooklyn Nine-Nine, what is Gina's job title?",
+    "options": ["Civilian Administrator", "Detective", "Sergeant", "Intern"],
+    "answer": "Civilian Administrator",
+    "show": "Brooklyn Nine-Nine",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of Tony Stark's company in Iron Man?",
+    "options": ["Stark Industries", "Wayne Enterprises", "Parker Robotics", "Oscorp"],
+    "answer": "Stark Industries",
+    "show": "Iron Man",
+    "genre": "Superhero",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In Stranger Things, what is Eleven’s favorite food?",
+    "options": ["Eggos", "Waffles", "Pizza", "Donuts"],
+    "answer": "Eggos",
+    "show": "Stranger Things",
+    "genre": "Thriller",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In Suits, what does Harvey Specter call his office?",
+    "options": ["The Fortress", "The Dungeon", "The Specter Suite", "The Pinnacle"],
+    "answer": "The Fortress",
+    "show": "Suits",
+    "genre": "Legal Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the Heisenberg-blue meth’s creator?",
+    "options": ["Walter White", "Jesse Pinkman", "Gale Boetticher", "Tuco Salamanca"],
+    "answer": "Walter White",
+    "show": "Breaking Bad",
+    "genre": "Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In The Mandalorian, what is the real name of The Child (Baby Yoda)?",
+    "options": ["Grogu", "Yaddle", "Mace", "Yodell"],
+    "answer": "Grogu",
+    "show": "The Mandalorian",
+    "genre": "Science Fiction",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In The Crown, what year did Queen Elizabeth II take the throne?",
+    "options": ["1952", "1947", "1960", "1955"],
+    "answer": "1952",
+    "show": "The Crown",
+    "genre": "Historical Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the full name of the FBI agent in Breaking Bad?",
+    "options": ["Hank Schrader", "Gustavo Fring", "Jesse Pinkman", "Steve Gomez"],
+    "answer": "Hank Schrader",
+    "show": "Breaking Bad",
+    "genre": "Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In The Big Bang Theory, what is Sheldon Cooper's favorite TV show?",
+    "options": ["Doctor Who", "Star Trek", "Firefly", "The Flash"],
+    "answer": "Star Trek",
+    "show": "The Big Bang Theory",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In Better Call Saul, what is Saul Goodman's real name?",
+    "options": ["Jimmy McGill", "Saul Goodman", "Chuck McGill", "Howard Hamlin"],
+    "answer": "Jimmy McGill",
+    "show": "Better Call Saul",
+    "genre": "Legal Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is Rachel's surname in Friends?",
+    "options": ["Green", "Geller", "Tribbiani", "Bing"],
+    "answer": "Green",
+    "show": "Friends",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the bar owned by Charlie Kelly's uncle in It's Always Sunny in Philadelphia?",
+    "options": ["Paddy's Pub", "MacLaren's", "Cheers", "The Alibi"],
+    "answer": "Paddy's Pub",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is Leslie Knope's job in Parks and Recreation?",
+    "options": ["Deputy Director of Parks and Recreation", "City Manager", "Mayor", "Senator"],
+    "answer": "Deputy Director of Parks and Recreation",
+    "show": "Parks and Recreation",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the main character's boat in Dexter?",
+    "options": ["Slice of Life", "The Code", "Stalker", "The Bay Harbor Butcher"],
+    "answer": "Slice of Life",
+    "show": "Dexter",
+    "genre": "Drama",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the high school in Buffy the Vampire Slayer?",
+    "options": ["Sunnydale High", "West Beverly High", "Bayside High", "Shermer High"],
+    "answer": "Sunnydale High",
+    "show": "Buffy the Vampire Slayer",
+    "genre": "Supernatural Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the name of the family business in Arrested Development?",
+    "options": ["The Bluth Company", "The Pritchett Company", "The Dunder Mifflin Paper Company", "The Pearson Hardman Law Firm"],
+    "answer": "The Bluth Company",
+    "show": "Arrested Development",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+    {
+    "question": "What is the name of the main character in House M.D.?",
+    "options": ["Gregory House", "James Wilson", "Lisa Cuddy", "Robert Chase"],
+    "answer": "Gregory House",
+    "show": "House M.D.",
+    "genre": "Medical Drama",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the name of the prison in Orange Is the New Black?",
+    "options": ["Litchfield Penitentiary", "Shawshank State Penitentiary", "Oz Correctional Facility", "San Quentin State Prison"],
+    "answer": "Litchfield Penitentiary",
+    "show": "Orange Is the New Black",
+    "genre": "Comedy-drama",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the name of the town where Twin Peaks is set?",
+    "options": ["Twin Peaks", "Silent Hill", "Storybrooke", "Stars Hollow"],
+    "answer": "Twin Peaks",
+    "show": "Twin Peaks",
+    "genre": "Mystery",
+    "difficulty": "Medium"
+  },
+    {
+    "question": "What is the name of the main character's horse in BoJack Horseman?",
+    "options": ["BoJack Horseman", "Mr. Peanutbutter", "Princess Carolyn", "Diane Nguyen"],
+    "answer": "BoJack Horseman",
+    "show": "BoJack Horseman",
+    "genre": "Animated Comedy-drama",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the name of the detective in Sherlock?",
+    "options": ["Sherlock Holmes", "John Watson", "Mycroft Holmes", "Jim Moriarty"],
+    "answer": "Sherlock Holmes",
+    "show": "Sherlock",
+    "genre": "Mystery",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the name of the family in The Simpsons?",
+    "options": ["The Simpsons", "The Griffins", "The Belchers", "The Smiths"],
+    "answer": "The Simpsons",
+    "show": "The Simpsons",
+    "genre": "Animated Comedy",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the name of the spaceship in Firefly?",
+    "options": ["Serenity", "Enterprise", "Millennium Falcon", "TARDIS"],
+    "answer": "Serenity",
+    "show": "Firefly",
+    "genre": "Science Fiction",
+    "difficulty": "Medium"
+  },
+      {
+    "question": "What is the name of the main character in Doctor Who?",
+    "options": ["The Doctor", "Rose Tyler", "Martha Jones", "Donna Noble"],
+    "answer": "The Doctor",
+    "show": "Doctor Who",
+    "genre": "Science Fiction",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the name of the kingdom in Game of Thrones?",
+    "options": ["Westeros", "Essos", "Valyria", "Sothoryos"],
+    "answer": "Westeros",
+    "show": "Game of Thrones",
+    "genre": "Fantasy",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the name of the main character in Breaking Bad?",
+    "options": ["Walter White", "Jesse Pinkman", "Saul Goodman", "Hank Schrader"],
+    "answer": "Walter White",
+    "show": "Breaking Bad",
+    "genre": "Drama",
+    "difficulty": "Easy"
+  },
+        {
+    "question": "What is the name of the main character in Mad Men?",
+    "options": ["Don Draper", "Peggy Olson", "Joan Holloway", "Roger Sterling"],
+    "answer": "Don Draper",
+    "show": "Mad Men",
+    "genre": "Period Drama",
+    "difficulty": "Medium"
+  },
+    {
+    "question": "What is the name of the hospital in Grey's Anatomy?",
+    "options": ["Grey Sloan Memorial Hospital", "Seattle Grace Mercy West Hospital", "New York Presbyterian Hospital", "Massachusetts General Hospital"],
+    "answer": "Grey Sloan Memorial Hospital",
+    "show": "Grey's Anatomy",
+    "genre": "Medical Drama",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the name of the main character in The Walking Dead?",
+    "options": ["Rick Grimes", "Daryl Dixon", "Michonne", "Negan"],
+    "answer": "Rick Grimes",
+    "show": "The Walking Dead",
+    "genre": "Post-apocalyptic Horror",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the name of the main character in The Wire?",
+    "options": ["Jimmy McNulty", "Stringer Bell", "Avon Barksdale", "Omar Little"],
+    "answer": "Jimmy McNulty",
+    "show": "The Wire",
+    "genre": "Crime Drama",
+    "difficulty": "Medium"
+  },
+    {
+    "question": "What is the name of the coffee shop in Gilmore Girls?",
+    "options": ["Luke's Diner", "Central Perk", "Monk's", "The Double R Diner"],
+    "answer": "Luke's Diner",
+    "show": "Gilmore Girls",
+    "genre": "Comedy-drama",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the name of the main character in Downton Abbey?",
+    "options": ["Robert Crawley", "Violet Crawley", "Mary Crawley", "Matthew Crawley"],
+    "answer": "Robert Crawley",
+    "show": "Downton Abbey",
+    "genre": "Historical Drama",
+    "difficulty": "Medium"
+  },
+        {
+    "question": "What is the name of the main character in Peaky Blinders?",
+    "options": ["Tommy Shelby", "Arthur Shelby", "Polly Gray", "Alfie Solomons"],
+    "answer": "Tommy Shelby",
+    "show": "Peaky Blinders",
+    "genre": "Crime Drama",
+    "difficulty": "Medium"
+  },
+    {
+    "question": "What is the name of the school in Riverdale?",
+    "options": ["Riverdale High", "Southside High", "Shermer High", "North Shore High"],
+    "answer": "Riverdale High",
+    "show": "Riverdale",
+    "genre": "Teen Drama",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is Dee Reynolds' nickname given to her by the gang?",
+    "options": ["Bird", "Sweet Dee", "The Aluminum Monster", "Dee-licious"],
+    "answer": "Bird",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is Charlie's preferred method of pest control?",
+    "options": ["Traps", "Poison", "Glue boards", "Kitten Mittens"],
+    "answer": "Kitten Mittens",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is Mac's preferred alcoholic beverage?",
+    "options": ["Milk Steak", "Beer", "Wine", "Diet Coke and Rum"],
+    "answer": "Beer",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the name of Frank's business that he runs out of the bar's basement?",
+    "options": ["Frank's Fluids", "Frank's Hot Dogs", "Frank's Little Beauties", "Frank's Guns"],
+    "answer": "Frank's Fluids",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the board game the gang creates that descends into chaos?",
+    "options": ["Chardee MacDennis", "The Game of Games", "Paddy's Pub: The Game", "The D.E.N.N.I.S. System Game"],
+    "answer": "Chardee MacDennis",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the name of the musical Charlie performs about the sun and the moon?",
+    "options": ["The Nightman Cometh", "Dayman", "Nightman", "The Dayman Cometh"],
+    "answer": "The Nightman Cometh",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+    {
+    "question": "What is the name of the character played by Rob McElhenney's real-life wife, Kaitlin Olson?",
+    "options": ["Dee Reynolds", "The Waitress", "Artemis", "Roxy"],
+    "answer": "Dee Reynolds",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the name of the lawyer who is obsessed with bird law?",
+    "options": ["Jack Kelly", "Saul Goodman", "Lionel Hutz", "Bob Loblaw"],
+    "answer": "Jack Kelly",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the name of the recurring character who is often exploited by the gang and has a disfigured appearance?",
+    "options": ["Cricket", "Pondy", "The Waitress", "Ben the Soldier"],
+    "answer": "Cricket",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+    {
+    "question": "What is the name of the wrestling persona Mac adopts?",
+    "options": ["Macho Man", "The Trash Man", "The Green Man", "The Golden God"],
+    "answer": "The Trash Man",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Medium"
+  },
+    {
+    "question": "What is the name of the 'system' Mac and Dennis use to seduce women?",
+    "options": ["The D.E.N.N.I.S. System", "The M.A.C. System", "The D.E.E. System", "The N.I.G.H.T. System"],
+    "answer": "The D.E.N.N.I.S. System",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+    {
+    "question": "What is the name of Charlie's mom?",
+    "options": ["Bonnie", "Margaret", "Barbara", "Shirley"],
+    "answer": "Bonnie",
+    "show": "It's Always Sunny in Philadelphia",
+    "genre": "Comedy",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the name of Tony Stark's father?",
+    "options": ["Howard Stark", "Jarvis Stark", "Harold Stark", "Henry Stark"],
+    "answer": "Howard Stark",
+    "show": "Iron Man",
+    "genre": "Superhero",
+    "difficulty": "Medium"
+  },
+  {
+      "question": "What element does Tony create to power his arc reactor?",
+      "options": ["Vibranium", "Palladium", "Element X", "Unobtainium"],
+      "answer": "Palladium",
+      "show": "Iron Man",
+      "genre": "Superhero",
+      "difficulty": "Hard"
+  },
+  {
+      "question": "What is the name of the terrorist organization in the first Iron Man movie?",
+      "options": ["Ten Rings", "Hydra", "A.I.M.", "The Hand"],
+      "answer": "Ten Rings",
+      "show": "Iron Man",
+      "genre": "Superhero",
+      "difficulty": "Easy"
+  },
+  {
+      "question": "What is the nickname of Tony Stark’s Iron Man suit in the first movie?",
+      "options": ["Mark I", "Iron Prototype", "Stark Armor", "Suit Zero"],
+      "answer": "Mark I",
+      "show": "Iron Man",
+      "genre": "Superhero",
+      "difficulty": "Medium"
+  },
+  {
+      "question": "Who plays the role of Pepper Potts in the Iron Man movies?",
+      "options": ["Scarlett Johansson", "Gwyneth Paltrow", "Natalie Portman", "Elizabeth Olsen"],
+      "answer": "Gwyneth Paltrow",
+      "show": "Iron Man",
+      "genre": "Superhero",
+      "difficulty": "Easy"
+  },
+  {
+      "question": "What material is used to forge the arc reactor core?",
+      "options": ["Vibranium", "Palladium", "Platinum", "Titanium"],
+      "answer": "Palladium",
+      "show": "Iron Man",
+      "genre": "Superhero",
+      "difficulty": "Hard"
+  },
+  {
+    "question": "What is the name of Eleven's biological mother?",
+    "options": ["Terry Ives", "Karen Wheeler", "Joyce Byers", "Susan Hargrove"],
+    "answer": "Terry Ives",
+    "show": "Stranger Things",
+    "genre": "Thriller",
+    "difficulty": "Medium"
+},
+{
+    "question": "What board game do the boys frequently play?",
+    "options": ["Dungeons & Dragons", "Monopoly", "Risk", "Catan"],
+    "answer": "Dungeons & Dragons",
+    "show": "Stranger Things",
+    "genre": "Thriller",
+    "difficulty": "Easy"
+},
+{
+    "question": "What is the name of the secret lab in Hawkins?",
+    "options": ["Hawkins National Laboratory", "Hawkins Research Center", "Hawkins Institute", "Hawkins Scientific Lab"],
+    "answer": "Hawkins National Laboratory",
+    "show": "Stranger Things",
+    "genre": "Thriller",
+    "difficulty": "Medium"
+},
+{
+    "question": "What song does Max listen to in Season 4 to escape Vecna?",
+    "options": ["Running Up That Hill", "Time After Time", "Sweet Dreams", "Take On Me"],
+    "answer": "Running Up That Hill",
+    "show": "Stranger Things",
+    "genre": "Thriller",
+    "difficulty": "Easy"
+},
+{
+    "question": "What is the name of the monster in Season 1?",
+    "options": ["Demogorgon", "Mind Flayer", "Vecna", "Shadow Monster"],
+    "answer": "Demogorgon",
+    "show": "Stranger Things",
+    "genre": "Thriller",
+    "difficulty": "Easy"
+},
+{
+    "question": "What is the name of Dustin's pet in Season 2?",
+    "options": ["Dart", "Sluggy", "Demo", "Yoda"],
+    "answer": "Dart",
+    "show": "Stranger Things",
+    "genre": "Thriller",
+    "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the weapon wielded by Moff Gideon?",
+  "options": ["Darksaber", "Lightsaber", "Electro Staff", "Vibroblade"],
+  "answer": "Darksaber",
+  "show": "The Mandalorian",
+  "genre": "Science Fiction",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the Mandalorian’s ship?",
+  "options": ["Razor Crest", "Slave I", "Millennium Falcon", "Ghost"],
+  "answer": "Razor Crest",
+  "show": "The Mandalorian",
+  "genre": "Science Fiction",
+  "difficulty": "Easy"
+},
+{
+  "question": "What species is Grogu?",
+  "options": ["Yoda's species", "Ewok", "Wookiee", "Jawa"],
+  "answer": "Yoda's species",
+  "show": "The Mandalorian",
+  "genre": "Science Fiction",
+  "difficulty": "Medium"
+},
+{
+  "question": "Who saves the Mandalorian and Grogu from the stormtroopers in Season 1?",
+  "options": ["IG-11", "Cara Dune", "Boba Fett", "Bo-Katan"],
+  "answer": "IG-11",
+  "show": "The Mandalorian",
+  "genre": "Science Fiction",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the Mandalorian’s real name?",
+  "options": ["Din Djarin", "Paz Vizsla", "Boba Fett", "Pre Vizsla"],
+  "answer": "Din Djarin",
+  "show": "The Mandalorian",
+  "genre": "Science Fiction",
+  "difficulty": "Easy"
+},
+{
+  "question": "Who created Grogu’s armor in Season 2?",
+  "options": ["The Armorer", "Bo-Katan", "Cara Dune", "Din Djarin"],
+  "answer": "The Armorer",
+  "show": "The Mandalorian",
+  "genre": "Science Fiction",
+  "difficulty": "Medium"
+},
+{
+  "question": "Who does Queen Elizabeth II marry in The Crown?",
+  "options": ["Prince Philip", "Prince Charles", "King George VI", "Prince Andrew"],
+  "answer": "Prince Philip",
+  "show": "The Crown",
+  "genre": "Historical Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Queen Elizabeth II's sister?",
+  "options": ["Princess Margaret", "Princess Anne", "Princess Diana", "Princess Mary"],
+  "answer": "Princess Margaret",
+  "show": "The Crown",
+  "genre": "Historical Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What scandal forces Edward VIII to abdicate the throne?",
+  "options": ["His marriage to Wallis Simpson", "Financial fraud", "A political coup", "Health issues"],
+  "answer": "His marriage to Wallis Simpson",
+  "show": "The Crown",
+  "genre": "Historical Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "Who plays Winston Churchill in The Crown?",
+  "options": ["John Lithgow", "Matt Smith", "Tobias Menzies", "Jared Harris"],
+  "answer": "John Lithgow",
+  "show": "The Crown",
+  "genre": "Historical Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of Queen Elizabeth's father, who preceded her on the throne?",
+  "options": ["King George VI", "King Edward VIII", "King George V", "King Charles I"],
+  "answer": "King George VI",
+  "show": "The Crown",
+  "genre": "Historical Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What event causes national mourning in Season 3 of The Crown?",
+  "options": ["The Aberfan disaster", "The death of Winston Churchill", "The Suez Crisis", "The Great Smog"],
+  "answer": "The Aberfan disaster",
+  "show": "The Crown",
+  "genre": "Historical Drama",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is Sheldon's catchphrase?",
+  "options": ["Bazinga!", "Eureka!", "Gotcha!", "Bang Bang!"],
+  "answer": "Bazinga!",
+  "show": "The Big Bang Theory",
+  "genre": "Comedy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Sheldon's girlfriend?",
+  "options": ["Amy Farrah Fowler", "Penny", "Bernadette", "Leslie Winkle"],
+  "answer": "Amy Farrah Fowler",
+  "show": "The Big Bang Theory",
+  "genre": "Comedy",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is Howard's profession?",
+  "options": ["Engineer", "Physicist", "Astronaut", "Biologist"],
+  "answer": "Engineer",
+  "show": "The Big Bang Theory",
+  "genre": "Comedy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of the comic book store owner?",
+  "options": ["Stuart", "Raj", "Barry", "Leonard"],
+  "answer": "Stuart",
+  "show": "The Big Bang Theory",
+  "genre": "Comedy",
+  "difficulty": "Medium"
+},
+{
+  "question": "What instrument does Amy play?",
+  "options": ["Harp", "Violin", "Piano", "Flute"],
+  "answer": "Harp",
+  "show": "The Big Bang Theory",
+  "genre": "Comedy",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the name of Penny’s ex-boyfriend who works at the Cheesecake Factory?",
+  "options": ["Kurt", "Zack", "David", "Mike"],
+  "answer": "Kurt",
+  "show": "The Big Bang Theory",
+  "genre": "Comedy",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is Saul Goodman's real name?",
+  "options": ["Jimmy McGill", "Chuck McGill", "Howard Hamlin", "Mike Ehrmantraut"],
+  "answer": "Jimmy McGill",
+  "show": "Better Call Saul",
+  "genre": "Legal Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Saul's law firm before he goes solo?",
+  "options": ["Hamlin, Hamlin & McGill", "McGill & Wexler", "Wexler & Goodman", "Goodman Law"],
+  "answer": "Hamlin, Hamlin & McGill",
+  "show": "Better Call Saul",
+  "genre": "Legal Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is Mike Ehrmantraut’s job before working for Gus Fring?",
+  "options": ["Parking attendant", "Private investigator", "Ex-cop", "Security guard"],
+  "answer": "Parking attendant",
+  "show": "Better Call Saul",
+  "genre": "Legal Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of Kim Wexler's legal mentor?",
+  "options": ["Howard Hamlin", "Chuck McGill", "Clifford Main", "Rich Schweikart"],
+  "answer": "Howard Hamlin",
+  "show": "Better Call Saul",
+  "genre": "Legal Drama",
+  "difficulty": "Hard"
+},
+{
+  "question": "What kind of business does Saul operate from his office in Season 1?",
+  "options": ["Cell phone store", "Nail salon", "Car wash", "Coffee shop"],
+  "answer": "Nail salon",
+  "show": "Better Call Saul",
+  "genre": "Legal Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of the retirement home where Jimmy finds elderly clients?",
+  "options": ["Sandpiper Crossing", "Mesa Verde", "Elder Haven", "Sunset Manor"],
+  "answer": "Sandpiper Crossing",
+  "show": "Better Call Saul",
+  "genre": "Legal Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the town where Parks and Recreation is set?",
+  "options": ["Pawnee", "Scranton", "Stars Hollow", "Springfield"],
+  "answer": "Pawnee",
+  "show": "Parks and Recreation",
+  "genre": "Comedy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is Ron Swanson's favorite food?",
+  "options": ["Bacon", "Steak", "Eggs", "Pancakes"],
+  "answer": "Steak",
+  "show": "Parks and Recreation",
+  "genre": "Comedy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Leslie Knope’s best friend and nurse?",
+  "options": ["Ann Perkins", "Donna Meagle", "April Ludgate", "Mona-Lisa Saperstein"],
+  "answer": "Ann Perkins",
+  "show": "Parks and Recreation",
+  "genre": "Comedy",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the club Tom Haverford starts?",
+  "options": ["Entertainment 720", "Snakehole Lounge", "The Pit", "Rent-a-Swag"],
+  "answer": "Entertainment 720",
+  "show": "Parks and Recreation",
+  "genre": "Comedy",
+  "difficulty": "Medium"
+},
+{
+  "question": "What holiday does Leslie Knope celebrate with her female friends?",
+  "options": ["Galentine's Day", "Friendsgiving", "National Women's Day", "Bestie Day"],
+  "answer": "Galentine's Day",
+  "show": "Parks and Recreation",
+  "genre": "Comedy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is Ben Wyatt's favorite board game?",
+  "options": ["The Cones of Dunshire", "Monopoly", "Settlers of Catan", "Risk"],
+  "answer": "The Cones of Dunshire",
+  "show": "Parks and Recreation",
+  "genre": "Comedy",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is Dexter Morgan's profession?",
+  "options": ["Blood spatter analyst", "Homicide detective", "Forensic pathologist", "Private investigator"],
+  "answer": "Blood spatter analyst",
+  "show": "Dexter",
+  "genre": "Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Dexter's adoptive father?",
+  "options": ["Harry Morgan", "Brian Moser", "Tom Matthews", "James Doakes"],
+  "answer": "Harry Morgan",
+  "show": "Dexter",
+  "genre": "Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is Dexter’s code for killing?",
+  "options": ["The Code of Harry", "The Code of Dexter", "The Morgan Rule", "The Butcher's Creed"],
+  "answer": "The Code of Harry",
+  "show": "Dexter",
+  "genre": "Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the nickname given to Dexter by the media?",
+  "options": ["The Bay Harbor Butcher", "The Ice Truck Killer", "The Dark Passenger", "The Night Stalker"],
+  "answer": "The Bay Harbor Butcher",
+  "show": "Dexter",
+  "genre": "Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "Who is the Ice Truck Killer revealed to be?",
+  "options": ["Dexter's brother", "Dexter's father", "Dexter's coworker", "Dexter's mentor"],
+  "answer": "Dexter's brother",
+  "show": "Dexter",
+  "genre": "Drama",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the name of Dexter's son?",
+  "options": ["Harrison", "Harry", "Hunter", "Hank"],
+  "answer": "Harrison",
+  "show": "Dexter",
+  "genre": "Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Buffy’s mentor?",
+  "options": ["Rupert Giles", "Wesley Wyndam-Pryce", "Angel", "Spike"],
+  "answer": "Rupert Giles",
+  "show": "Buffy the Vampire Slayer",
+  "genre": "Supernatural Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Buffy’s hometown?",
+  "options": ["Sunnydale", "Riverside", "Mystic Falls", "Beacon Hills"],
+  "answer": "Sunnydale",
+  "show": "Buffy the Vampire Slayer",
+  "genre": "Supernatural Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Buffy’s best friend who becomes a witch?",
+  "options": ["Willow Rosenberg", "Cordelia Chase", "Faith Lehane", "Anya Jenkins"],
+  "answer": "Willow Rosenberg",
+  "show": "Buffy the Vampire Slayer",
+  "genre": "Supernatural Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the nickname of Buffy’s love interest, Angel?",
+  "options": ["Angelus", "The Dark One", "The Shadow", "The Chosen"],
+  "answer": "Angelus",
+  "show": "Buffy the Vampire Slayer",
+  "genre": "Supernatural Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What type of supernatural being is Spike?",
+  "options": ["Vampire", "Werewolf", "Demon", "Witch"],
+  "answer": "Vampire",
+  "show": "Buffy the Vampire Slayer",
+  "genre": "Supernatural Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Buffy’s sister introduced in Season 5?",
+  "options": ["Dawn", "Joyce", "Faith", "Glory"],
+  "answer": "Dawn",
+  "show": "Buffy the Vampire Slayer",
+  "genre": "Supernatural Drama",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the name of the Bluth family's frozen banana stand?",
+  "options": ["The Banana Shack", "Bluth's Frozen Banana Stand", "The Fruit Stand", "Banana Paradise"],
+  "answer": "Bluth's Frozen Banana Stand",
+  "show": "Arrested Development",
+  "genre": "Comedy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is Tobias Fünke’s dream profession?",
+  "options": ["Actor", "Magician", "Author", "Director"],
+  "answer": "Actor",
+  "show": "Arrested Development",
+  "genre": "Comedy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What does George Michael name his anti-drug robot?",
+  "options": ["Mr. Banana Grabber", "RoboCop", "Star Wars Bot", "T.R.-J"],
+  "answer": "T.R.-J",
+  "show": "Arrested Development",
+  "genre": "Comedy",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is Buster’s biggest fear?",
+  "options": ["Birds", "Losing a hand", "His mother", "The ocean"],
+  "answer": "Birds",
+  "show": "Arrested Development",
+  "genre": "Comedy",
+  "difficulty": "Medium"
+},
+{
+  "question": "What company does Gob claim to be the president of?",
+  "options": ["Bluth Company", "Orange County Magic", "Sudden Valley", "Imagine Entertainment"],
+  "answer": "Bluth Company",
+  "show": "Arrested Development",
+  "genre": "Comedy",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the name of Maeby’s fake movie studio?",
+  "options": ["Imagine Entertainment", "Fakeblock", "Banana Republic Productions", "W.A.N.D."],
+  "answer": "Fakeblock",
+  "show": "Arrested Development",
+  "genre": "Comedy",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is Dr. House’s specialty?",
+  "options": ["Diagnostic Medicine", "Cardiology", "Oncology", "Neurology"],
+  "answer": "Diagnostic Medicine",
+  "show": "House M.D.",
+  "genre": "Medical Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of House's best friend?",
+  "options": ["Dr. Wilson", "Dr. Chase", "Dr. Foreman", "Dr. Taub"],
+  "answer": "Dr. Wilson",
+  "show": "House M.D.",
+  "genre": "Medical Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is House addicted to?",
+  "options": ["Vicodin", "Alcohol", "Nicotine", "Caffeine"],
+  "answer": "Vicodin",
+  "show": "House M.D.",
+  "genre": "Medical Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the hospital where House works?",
+  "options": ["Princeton-Plainsboro", "Seattle Grace", "Grey Sloan Memorial", "County General"],
+  "answer": "Princeton-Plainsboro",
+  "show": "House M.D.",
+  "genre": "Medical Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What musical instrument does House play?",
+  "options": ["Piano", "Guitar", "Harmonica", "Violin"],
+  "answer": "Piano",
+  "show": "House M.D.",
+  "genre": "Medical Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of House’s boss?",
+  "options": ["Dr. Cuddy", "Dr. Wilson", "Dr. Foreman", "Dr. Vogler"],
+  "answer": "Dr. Cuddy",
+  "show": "House M.D.",
+  "genre": "Medical Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the nickname of Piper’s ex-girlfriend in prison?",
+  "options": ["Crazy Eyes", "Vee", "Alex", "Red"],
+  "answer": "Alex",
+  "show": "Orange Is the New Black",
+  "genre": "Comedy-drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is Piper’s last name?",
+  "options": ["Chapman", "Smith", "Taylor", "Miller"],
+  "answer": "Chapman",
+  "show": "Orange Is the New Black",
+  "genre": "Comedy-drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the nickname of Suzanne Warren?",
+  "options": ["Crazy Eyes", "Red", "Black Cindy", "Taystee"],
+  "answer": "Crazy Eyes",
+  "show": "Orange Is the New Black",
+  "genre": "Comedy-drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the prison kitchen manager?",
+  "options": ["Red", "Gloria", "Vee", "Poussey"],
+  "answer": "Red",
+  "show": "Orange Is the New Black",
+  "genre": "Comedy-drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "Who is the warden at Litchfield Penitentiary?",
+  "options": ["Joe Caputo", "Fig", "Desi Piscatella", "Natalie Figueroa"],
+  "answer": "Joe Caputo",
+  "show": "Orange Is the New Black",
+  "genre": "Comedy-drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of Taystee’s best friend?",
+  "options": ["Poussey", "Suzanne", "Cindy", "Daya"],
+  "answer": "Poussey",
+  "show": "Orange Is the New Black",
+  "genre": "Comedy-drama",
+  "difficulty": "Hard"
+},
+{
+  "question": "Who is the FBI agent investigating Laura Palmer’s murder?",
+  "options": ["Dale Cooper", "Harry Truman", "Albert Rosenfield", "Phillip Jeffries"],
+  "answer": "Dale Cooper",
+  "show": "Twin Peaks",
+  "genre": "Mystery",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of the mysterious lodge in the woods?",
+  "options": ["The Black Lodge", "The Red Room", "The Great Northern", "The Blue Lodge"],
+  "answer": "The Black Lodge",
+  "show": "Twin Peaks",
+  "genre": "Mystery",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the local diner?",
+  "options": ["Double R Diner", "Twin Peaks Café", "The Log Lady's Diner", "The Pie Stop"],
+  "answer": "Double R Diner",
+  "show": "Twin Peaks",
+  "genre": "Mystery",
+  "difficulty": "Easy"
+},
+{
+  "question": "Who is known as the Log Lady?",
+  "options": ["Margaret Lanterman", "Laura Palmer", "Shelly Johnson", "Norma Jennings"],
+  "answer": "Margaret Lanterman",
+  "show": "Twin Peaks",
+  "genre": "Mystery",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is Agent Cooper’s favorite dessert?",
+  "options": ["Cherry pie", "Apple pie", "Donuts", "Chocolate cake"],
+  "answer": "Cherry pie",
+  "show": "Twin Peaks",
+  "genre": "Mystery",
+  "difficulty": "Easy"
+},
+{
+  "question": "What phrase does Laura Palmer whisper to Dale Cooper in his dream?",
+  "options": ["The owls are not what they seem", "Find the killer", "My father killed me", "Fire walk with me"],
+  "answer": "Fire walk with me",
+  "show": "Twin Peaks",
+  "genre": "Mystery",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is BoJack's profession?",
+  "options": ["Actor", "Writer", "Director", "Producer"],
+  "answer": "Actor",
+  "show": "BoJack Horseman",
+  "genre": "Animated Comedy-drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of BoJack’s hit TV show?",
+  "options": ["Horsin' Around", "Mr. Peanutbutter's House", "Hollywood Nights", "Hollywoo Adventures"],
+  "answer": "Horsin' Around",
+  "show": "BoJack Horseman",
+  "genre": "Animated Comedy-drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of BoJack’s ghostwriter?",
+  "options": ["Diane Nguyen", "Princess Carolyn", "Sarah Lynn", "Todd Chavez"],
+  "answer": "Diane Nguyen",
+  "show": "BoJack Horseman",
+  "genre": "Animated Comedy-drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of BoJack’s rival and neighbor?",
+  "options": ["Mr. Peanutbutter", "Todd Chavez", "Princess Carolyn", "Herb Kazzaz"],
+  "answer": "Mr. Peanutbutter",
+  "show": "BoJack Horseman",
+  "genre": "Animated Comedy-drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What food item is Todd famous for creating?",
+  "options": ["Spaghetti Straws", "Churro Stand", "Avocado Toast", "Todd's Tacos"],
+  "answer": "Spaghetti Straws",
+  "show": "BoJack Horseman",
+  "genre": "Animated Comedy-drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the theme park Todd builds?",
+  "options": ["Dystopia Land", "Disney Todd", "Diane's Adventure", "Improvement World"],
+  "answer": "Dystopia Land",
+  "show": "BoJack Horseman",
+  "genre": "Animated Comedy-drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of BoJack’s mother?",
+  "options": ["Beatrice", "Diane", "Charlotte", "Sarah Lynn"],
+  "answer": "Beatrice",
+  "show": "BoJack Horseman",
+  "genre": "Animated Comedy-drama",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the name of the drug-addicted pop star BoJack has a troubled relationship with?",
+  "options": ["Sarah Lynn", "Hollyhock", "Princess Carolyn", "Emily"],
+  "answer": "Sarah Lynn",
+  "show": "BoJack Horseman",
+  "genre": "Animated Comedy-drama",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the name of the network executive who oversees BoJack's new show?",
+  "options": ["Angela Diaz", "Lenny Turteltaub", "Tom Jumbo-Grumbo", "Charlotte Moore"],
+  "answer": "Angela Diaz",
+  "show": "BoJack Horseman",
+  "genre": "Animated Comedy-drama",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is Sherlock’s address in London?",
+  "options": ["221B Baker Street", "221A Baker Street", "10 Downing Street", "12 Grimmauld Place"],
+  "answer": "221B Baker Street",
+  "show": "Sherlock",
+  "genre": "Mystery",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Sherlock’s arch-nemesis?",
+  "options": ["Moriarty", "Mycroft Holmes", "Lestrade", "Magnussen"],
+  "answer": "Moriarty",
+  "show": "Sherlock",
+  "genre": "Mystery",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Sherlock’s landlady?",
+  "options": ["Mrs. Hudson", "Irene Adler", "Molly Hooper", "Mary Watson"],
+  "answer": "Mrs. Hudson",
+  "show": "Sherlock",
+  "genre": "Mystery",
+  "difficulty": "Medium"
+},
+{
+  "question": "What phrase does Sherlock use to refer to his deductions?",
+  "options": ["Elementary, my dear Watson", "My process", "The science of deduction", "Mind Palace"],
+  "answer": "The science of deduction",
+  "show": "Sherlock",
+  "genre": "Mystery",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of Sherlock’s older brother?",
+  "options": ["Mycroft Holmes", "James Moriarty", "Lestrade", "Charles Magnussen"],
+  "answer": "Mycroft Holmes",
+  "show": "Sherlock",
+  "genre": "Mystery",
+  "difficulty": "Medium"
+},
+{
+  "question": "What does Sherlock use to fake his death in 'The Reichenbach Fall'?",
+  "options": ["A harness", "A stunt double", "A dummy", "A mattress"],
+  "answer": "A harness",
+  "show": "Sherlock",
+  "genre": "Mystery",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the name of Homer’s favorite beer?",
+  "options": ["Duff Beer", "Buzz Cola", "Lemon Tree Lager", "Simpson Stout"],
+  "answer": "Duff Beer",
+  "show": "The Simpsons",
+  "genre": "Animated Comedy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is Bart Simpson’s catchphrase?",
+  "options": ["Don’t have a cow, man!", "Cowabunga!", "Eat my shorts!", "All of the above"],
+  "answer": "All of the above",
+  "show": "The Simpsons",
+  "genre": "Animated Comedy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of the owner of the Kwik-E-Mart?",
+  "options": ["Apu Nahasapeemapetilon", "Moe Szyslak", "Chief Wiggum", "Ned Flanders"],
+  "answer": "Apu Nahasapeemapetilon",
+  "show": "The Simpsons",
+  "genre": "Animated Comedy",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of Lisa’s saxophone-playing idol?",
+  "options": ["Bleeding Gums Murphy", "Jazz Joe", "Saxman Sam", "Billy Sax"],
+  "answer": "Bleeding Gums Murphy",
+  "show": "The Simpsons",
+  "genre": "Animated Comedy",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of Springfield's nuclear power plant owner?",
+  "options": ["Mr. Burns", "Homer Simpson", "Carl Carlson", "Barney Gumble"],
+  "answer": "Mr. Burns",
+  "show": "The Simpsons",
+  "genre": "Animated Comedy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Bart’s evil twin in 'Treehouse of Horror'?",
+  "options": ["Hugo", "El Barto", "Sideshow Bob", "Snake"],
+  "answer": "Hugo",
+  "show": "The Simpsons",
+  "genre": "Animated Comedy",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the name of the captain of Serenity?",
+  "options": ["Malcolm Reynolds", "Wash Washburne", "Jayne Cobb", "Shepherd Book"],
+  "answer": "Malcolm Reynolds",
+  "show": "Firefly",
+  "genre": "Science Fiction",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of the mechanic aboard Serenity?",
+  "options": ["Kaylee Frye", "Inara Serra", "River Tam", "Zoe Washburne"],
+  "answer": "Kaylee Frye",
+  "show": "Firefly",
+  "genre": "Science Fiction",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the primary currency in the Firefly universe?",
+  "options": ["Credits", "Platinum", "Gold Pressed Latinum", "Alliance Bucks"],
+  "answer": "Platinum",
+  "show": "Firefly",
+  "genre": "Science Fiction",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the operative psychic on Serenity?",
+  "options": ["River Tam", "Inara Serra", "Saffron", "Zoe Washburne"],
+  "answer": "River Tam",
+  "show": "Firefly",
+  "genre": "Science Fiction",
+  "difficulty": "Easy"
+},
+{
+  "question": "What does Jayne Cobb name his favorite gun?",
+  "options": ["Vera", "Molly", "Betty", "Lucy"],
+  "answer": "Vera",
+  "show": "Firefly",
+  "genre": "Science Fiction",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the ship that Serenity is based on?",
+  "options": ["Firefly", "Serenity", "Starbug", "Orion"],
+  "answer": "Firefly",
+  "show": "Firefly",
+  "genre": "Science Fiction",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of the Doctor’s time machine?",
+  "options": ["TARDIS", "Time Rover", "Chronos Cube", "Temporal Sphere"],
+  "answer": "TARDIS",
+  "show": "Doctor Who",
+  "genre": "Science Fiction",
+  "difficulty": "Easy"
+},
+{
+  "question": "What does TARDIS stand for?",
+  "options": ["Time And Relative Dimension In Space", "Temporal And Relative Direction In Space", "Time And Radical Dimensions In Space", "Travel And Relative Dimensions In Space"],
+  "answer": "Time And Relative Dimension In Space",
+  "show": "Doctor Who",
+  "genre": "Science Fiction",
+  "difficulty": "Hard"
+},
+{
+  "question": "What species is the Doctor’s long-time enemy?",
+  "options": ["Daleks", "Cybermen", "Weeping Angels", "The Silence"],
+  "answer": "Daleks",
+  "show": "Doctor Who",
+  "genre": "Science Fiction",
+  "difficulty": "Easy"
+},
+{
+  "question": "What planet is the Doctor from?",
+  "options": ["Gallifrey", "Skaro", "Earth", "Trenzalore"],
+  "answer": "Gallifrey",
+  "show": "Doctor Who",
+  "genre": "Science Fiction",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the Doctor’s robotic dog?",
+  "options": ["K-9", "R2-D2", "B.O.B.", "C-3PO"],
+  "answer": "K-9",
+  "show": "Doctor Who",
+  "genre": "Science Fiction",
+  "difficulty": "Medium"
+},
+{
+  "question": "Who was the first female Doctor?",
+  "options": ["Jodie Whittaker", "Karen Gillan", "Michelle Gomez", "Jenna Coleman"],
+  "answer": "Jodie Whittaker",
+  "show": "Doctor Who",
+  "genre": "Science Fiction",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Jon Snow’s direwolf?",
+  "options": ["Ghost", "Nymeria", "Grey Wind", "Summer"],
+  "answer": "Ghost",
+  "show": "Game of Thrones",
+  "genre": "Fantasy",
+  "difficulty": "Easy"
+},
+{
+  "question": "Who is known as the Mother of Dragons?",
+  "options": ["Daenerys Targaryen", "Cersei Lannister", "Arya Stark", "Sansa Stark"],
+  "answer": "Daenerys Targaryen",
+  "show": "Game of Thrones",
+  "genre": "Fantasy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the motto of House Stark?",
+  "options": ["Winter Is Coming", "Hear Me Roar", "Fire and Blood", "Ours Is the Fury"],
+  "answer": "Winter Is Coming",
+  "show": "Game of Thrones",
+  "genre": "Fantasy",
+  "difficulty": "Medium"
+},
+{
+  "question": "Who killed King Joffrey?",
+  "options": ["Olenna Tyrell", "Sansa Stark", "Tyrion Lannister", "Arya Stark"],
+  "answer": "Olenna Tyrell",
+  "show": "Game of Thrones",
+  "genre": "Fantasy",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of Arya Stark’s sword?",
+  "options": ["Needle", "Longclaw", "Oathkeeper", "Ice"],
+  "answer": "Needle",
+  "show": "Game of Thrones",
+  "genre": "Fantasy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of the capital city of Westeros?",
+  "options": ["King’s Landing", "Winterfell", "Casterly Rock", "Dragonstone"],
+  "answer": "King’s Landing",
+  "show": "Game of Thrones",
+  "genre": "Fantasy",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of the advertising agency in Mad Men?",
+  "options": ["Sterling Cooper", "Madison Avenue", "Don Draper & Co.", "Cooper Draper Pryce"],
+  "answer": "Sterling Cooper",
+  "show": "Mad Men",
+  "genre": "Period Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "Which product is Don Draper pitching in the pilot episode?",
+  "options": ["Lucky Strike cigarettes", "Coca-Cola", "Kodak Carousel", "Chevrolet"],
+  "answer": "Lucky Strike cigarettes",
+  "show": "Mad Men",
+  "genre": "Period Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the nickname of Don Draper's secretary, Peggy Olson?",
+  "options": ["Peg", "Olly", "Peggy", "The Copy Queen"],
+  "answer": "Peggy",
+  "show": "Mad Men",
+  "genre": "Period Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "Which major historical event deeply affects the characters in Season 3?",
+  "options": ["JFK’s assassination", "The moon landing", "The Vietnam War", "The Cuban Missile Crisis"],
+  "answer": "JFK’s assassination",
+  "show": "Mad Men",
+  "genre": "Period Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What iconic drink is Don Draper known for ordering?",
+  "options": ["Old Fashioned", "Whiskey Sour", "Manhattan", "Martini"],
+  "answer": "Old Fashioned",
+  "show": "Mad Men",
+  "genre": "Period Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What does Don Draper give as a pitch for the Kodak Carousel?",
+  "options": ["A time machine", "A photo reel", "A nostalgic slideshow", "A circle of memories"],
+  "answer": "A time machine",
+  "show": "Mad Men",
+  "genre": "Period Drama",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the nickname for Meredith Grey and her friends?",
+  "options": ["The Interns", "The Fab Five", "The Magic Five", "The OG Crew"],
+  "answer": "The Fab Five",
+  "show": "Grey's Anatomy",
+  "genre": "Medical Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What specialty does Derek Shepherd practice?",
+  "options": ["Neurosurgery", "Cardiology", "Pediatrics", "General Surgery"],
+  "answer": "Neurosurgery",
+  "show": "Grey's Anatomy",
+  "genre": "Medical Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the nickname for Cristina Yang and Meredith Grey’s friendship?",
+  "options": ["Twisted Sisters", "Surgical Sisters", "Dynamic Duo", "Grey and Yang"],
+  "answer": "Twisted Sisters",
+  "show": "Grey's Anatomy",
+  "genre": "Medical Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of Meredith’s mother, who was also a famous surgeon?",
+  "options": ["Ellis Grey", "Maggie Pierce", "Amelia Shepherd", "Izzie Stevens"],
+  "answer": "Ellis Grey",
+  "show": "Grey's Anatomy",
+  "genre": "Medical Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "Which surgeon is known as 'McSteamy'?",
+  "options": ["Mark Sloan", "Derek Shepherd", "Jackson Avery", "Alex Karev"],
+  "answer": "Mark Sloan",
+  "show": "Grey's Anatomy",
+  "genre": "Medical Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What catastrophic event happens in Season 6?",
+  "options": ["Hospital shooting", "Earthquake", "Plane crash", "Fire"],
+  "answer": "Hospital shooting",
+  "show": "Grey's Anatomy",
+  "genre": "Medical Drama",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the name of Rick Grimes’ son?",
+  "options": ["Carl", "Daryl", "Shane", "Eugene"],
+  "answer": "Carl",
+  "show": "The Walking Dead",
+  "genre": "Post-apocalyptic Horror",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of the prison that serves as a sanctuary?",
+  "options": ["West Georgia Correctional Facility", "Atlanta Penitentiary", "Woodbury Prison", "Hilltop Lockup"],
+  "answer": "West Georgia Correctional Facility",
+  "show": "The Walking Dead",
+  "genre": "Post-apocalyptic Horror",
+  "difficulty": "Medium"
+},
+{
+  "question": "What weapon is Michonne known for using?",
+  "options": ["Katana", "Crossbow", "Pistol", "Sledgehammer"],
+  "answer": "Katana",
+  "show": "The Walking Dead",
+  "genre": "Post-apocalyptic Horror",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the nickname of Negan's barbed-wire-covered bat?",
+  "options": ["Lucille", "Louise", "Betsy", "Gloria"],
+  "answer": "Lucille",
+  "show": "The Walking Dead",
+  "genre": "Post-apocalyptic Horror",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the group led by Alpha?",
+  "options": ["The Whisperers", "The Saviors", "The Wolves", "The Scavengers"],
+  "answer": "The Whisperers",
+  "show": "The Walking Dead",
+  "genre": "Post-apocalyptic Horror",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the scientist who claims to know a cure?",
+  "options": ["Eugene Porter", "Milton Mamet", "Dr. Jenner", "Aaron"],
+  "answer": "Eugene Porter",
+  "show": "The Walking Dead",
+  "genre": "Post-apocalyptic Horror",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the name of the dockworker union in Season 2?",
+  "options": ["The Stevedores", "The Longshoremen", "The Harbor Union", "The Waterfront Workers"],
+  "answer": "The Stevedores",
+  "show": "The Wire",
+  "genre": "Crime Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is Stringer Bell's legitimate business venture?",
+  "options": ["Real estate", "Car dealership", "Nightclub", "Restaurant"],
+  "answer": "Real estate",
+  "show": "The Wire",
+  "genre": "Crime Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What nickname does Omar Little go by?",
+  "options": ["The King", "The Stickup Man", "The Silent Hunter", "The Avenger"],
+  "answer": "The Stickup Man",
+  "show": "The Wire",
+  "genre": "Crime Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is Detective Jimmy McNulty's preferred drink?",
+  "options": ["Jameson Whiskey", "Budweiser", "Vodka", "Scotch"],
+  "answer": "Jameson Whiskey",
+  "show": "The Wire",
+  "genre": "Crime Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What city is the setting for The Wire?",
+  "options": ["Baltimore", "Philadelphia", "Detroit", "Chicago"],
+  "answer": "Baltimore",
+  "show": "The Wire",
+  "genre": "Crime Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "Who is the leader of the Barksdale drug organization?",
+  "options": ["Avon Barksdale", "Stringer Bell", "Marlo Stanfield", "Prop Joe"],
+  "answer": "Avon Barksdale",
+  "show": "The Wire",
+  "genre": "Crime Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is Lorelai's favorite drink?",
+  "options": ["Coffee", "Tea", "Soda", "Hot Chocolate"],
+  "answer": "Coffee",
+  "show": "Gilmore Girls",
+  "genre": "Comedy-drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Rory's first boyfriend?",
+  "options": ["Dean", "Logan", "Jess", "Tristan"],
+  "answer": "Dean",
+  "show": "Gilmore Girls",
+  "genre": "Comedy-drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "Where does Rory attend college?",
+  "options": ["Yale", "Harvard", "Columbia", "Brown"],
+  "answer": "Yale",
+  "show": "Gilmore Girls",
+  "genre": "Comedy-drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of Lorelai's inn?",
+  "options": ["The Dragonfly Inn", "The Independence Inn", "Stars Hollow Inn", "The Grand Hotel"],
+  "answer": "The Dragonfly Inn",
+  "show": "Gilmore Girls",
+  "genre": "Comedy-drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of the dance marathon event in Stars Hollow?",
+  "options": ["The 24-Hour Dance-a-thon", "Stars Hollow Swing Night", "Dancing Under the Stars", "The Annual Town Dance"],
+  "answer": "The 24-Hour Dance-a-thon",
+  "show": "Gilmore Girls",
+  "genre": "Comedy-drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What profession does Luke Danes have?",
+  "options": ["Diner owner", "Mechanic", "Farmer", "Teacher"],
+  "answer": "Diner owner",
+  "show": "Gilmore Girls",
+  "genre": "Comedy-drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of the Crawley family estate?",
+  "options": ["Downton Abbey", "Highclere Castle", "Crawley Manor", "Grantham Estate"],
+  "answer": "Downton Abbey",
+  "show": "Downton Abbey",
+  "genre": "Historical Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "Who is the head butler of Downton Abbey?",
+  "options": ["Carson", "Bates", "Branson", "Thomas"],
+  "answer": "Carson",
+  "show": "Downton Abbey",
+  "genre": "Historical Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "Which Crawley daughter marries Matthew?",
+  "options": ["Mary", "Edith", "Sybil", "Anna"],
+  "answer": "Mary",
+  "show": "Downton Abbey",
+  "genre": "Historical Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is Lady Sybil known for in the family?",
+  "options": ["Her rebellious nature", "Her musical talent", "Her artistic skills", "Her business acumen"],
+  "answer": "Her rebellious nature",
+  "show": "Downton Abbey",
+  "genre": "Historical Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the title of Robert Crawley, the family patriarch?",
+  "options": ["Earl of Grantham", "Duke of Yorkshire", "Baron of Highclere", "Lord of Downton"],
+  "answer": "Earl of Grantham",
+  "show": "Downton Abbey",
+  "genre": "Historical Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "Who is the Dowager Countess of Grantham?",
+  "options": ["Violet Crawley", "Cora Crawley", "Edith Crawley", "Mary Crawley"],
+  "answer": "Violet Crawley",
+  "show": "Downton Abbey",
+  "genre": "Historical Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the pub owned by the Shelby family?",
+  "options": ["The Garrison Tavern", "The Red Lion", "The Black Swan", "The Crown Inn"],
+  "answer": "The Garrison Tavern",
+  "show": "Peaky Blinders",
+  "genre": "Crime Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "Who is the leader of the Peaky Blinders gang?",
+  "options": ["Tommy Shelby", "Arthur Shelby", "John Shelby", "Michael Gray"],
+  "answer": "Tommy Shelby",
+  "show": "Peaky Blinders",
+  "genre": "Crime Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What business does Tommy Shelby use to legitimize the family operations?",
+  "options": ["A betting shop", "A car dealership", "A tailor shop", "A factory"],
+  "answer": "A betting shop",
+  "show": "Peaky Blinders",
+  "genre": "Crime Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "Who does Grace Burgess initially work for as a spy?",
+  "options": ["The Crown", "The IRA", "The police", "The Italians"],
+  "answer": "The police",
+  "show": "Peaky Blinders",
+  "genre": "Crime Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is Polly Gray’s role in the Shelby family?",
+  "options": ["Matriarch", "Accountant", "Informant", "Assassin"],
+  "answer": "Matriarch",
+  "show": "Peaky Blinders",
+  "genre": "Crime Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What substance does Tommy Shelby become addicted to in later seasons?",
+  "options": ["Opium", "Alcohol", "Cocaine", "Heroin"],
+  "answer": "Opium",
+  "show": "Peaky Blinders",
+  "genre": "Crime Drama",
+  "difficulty": "Hard"
+},
+{
+  "question": "What is the name of Archie Andrews’ band?",
+  "options": ["The Archies", "Riverdale High", "The Bulldogs", "The Vixens"],
+  "answer": "The Archies",
+  "show": "Riverdale",
+  "genre": "Teen Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "Who is the head cheerleader of the Riverdale Vixens?",
+  "options": ["Cheryl Blossom", "Betty Cooper", "Veronica Lodge", "Josie McCoy"],
+  "answer": "Cheryl Blossom",
+  "show": "Riverdale",
+  "genre": "Teen Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is Jughead Jones’ signature clothing item?",
+  "options": ["A beanie", "A leather jacket", "A scarf", "A bowtie"],
+  "answer": "A beanie",
+  "show": "Riverdale",
+  "genre": "Teen Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What family owns the Blossom Maple Syrup business?",
+  "options": ["The Blossoms", "The Coopers", "The Lodges", "The Andrews"],
+  "answer": "The Blossoms",
+  "show": "Riverdale",
+  "genre": "Teen Drama",
+  "difficulty": "Medium"
+},
+{
+  "question": "What is the name of the Southside gang Jughead joins?",
+  "options": ["The Serpents", "The Bulldogs", "The Ghoulies", "The Vixens"],
+  "answer": "The Serpents",
+  "show": "Riverdale",
+  "genre": "Teen Drama",
+  "difficulty": "Easy"
+},
+{
+  "question": "What is the name of Veronica Lodge's father?",
+  "options": ["Hiram Lodge", "Fred Andrews", "Hal Cooper", "Clifford Blossom"],
+  "answer": "Hiram Lodge",
+  "show": "Riverdale",
+  "genre": "Teen Drama",
+  "difficulty": "Easy"
+}
+]
+
