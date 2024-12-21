@@ -1,36 +1,107 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sitcom Showdown
 
-## Getting Started
+Sitcom Showdown is a web-based trivia game where fans of sitcoms can challenge their knowledge about popular TV shows. Players can enjoy single-player quizzes or dive into multiplayer competitions for an engaging experience. With dynamic questions, real-time gameplay, and leaderboards, Sitcom Showdown is the perfect game for sitcom enthusiasts.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Single-Player Mode**: Choose your favorite genre, difficulty, or TV show for a tailored trivia experience.
+- **Random Quiz**: Take a challenge with a random set of 25 questions from all genres and shows.
+- **Multiplayer Mode**: Join or create lobbies to compete with other players in real time.
+- **Leaderboards**: Track high scores and compare your performance with others.
+- **Dynamic Questions**: Trivia questions dynamically loaded and shuffled for a fresh experience every time.
+- **Customizable Themes**: Sitcom-inspired UI with fun and colorful designs.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Frontend**: Next.js, Tailwind CSS
+- **Backend**: Firebase Authentication, Firestore Database, Firebase Hosting
+- **Real-Time Multiplayer**: Firebase Realtime Database
+- **API Integration**: Giphy API for dynamic sitcom GIFs
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Installation
 
-## Learn More
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YarinBou/Sitcom-Showdown.git
+   cd Sitcom-Showdown
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Set up Firebase:
+   - Create a Firebase project.
+   - Add your Firebase configuration to `.env.local`:
+     ```env
+     NEXT_PUBLIC_FIREBASE_API_KEY=your-api-key
+     NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your-auth-domain
+     NEXT_PUBLIC_FIREBASE_PROJECT_ID=your-project-id
+     NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your-storage-bucket
+     NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your-sender-id
+     NEXT_PUBLIC_FIREBASE_APP_ID=your-app-id
+     ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. Run the development server:
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The project is set up for deployment using Firebase Hosting:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Build the project:
+   ```bash
+   npm run build
+   ```
+
+2. Deploy to Firebase:
+   ```bash
+   firebase deploy
+   ```
+
+## Usage
+
+- **Sign In**: Log in using your Google account to start playing.
+- **Single-Player**: Choose a genre, difficulty, or show, or start a random quiz.
+- **Multiplayer**: Create or join a lobby to play with others.
+- **Leaderboards**: Check high scores and track your progress.
+
+## Contributing
+
+We welcome contributions! To contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+4. Push your branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgements
+
+- Giphy API for providing sitcom-themed GIFs.
+- Firebase for real-time database and hosting services.
+- OpenAI for assistance in content generation.
+
+## Contact
+
+For any queries or suggestions, feel free to reach out:
+- Author: YarinBou
+- GitHub: [https://github.com/YarinBou/Sitcom-Showdown](https://github.com/YarinBou/Sitcom-Showdown)
+
